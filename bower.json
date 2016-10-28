@@ -1,0 +1,19 @@
+{
+  "name": "inuitcss",
+  "authors": [
+    "Ivan <jones.ivan@hotmail.com>"
+  ],
+  "description": "My inuitcss setup",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "inuitcss": "^6.0.0-beta.4",
+    "sass-mq": "3.2.9"
+  },
+  "private": true
+}
